@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="af6c52f3-c960-45cc-a084-341c5f0a4289" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x si zero.py" beforeDir="false" afterPath="$PROJECT_DIR$/x si zero.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,11 +37,11 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Lectia 5.executor": "Run",
     "Python.Piatra,Hartie,foarfeca.executor": "Run",
-    "Python.Pizzerie.executor": "Debug",
+    "Python.Pizzerie.executor": "Run",
     "Python.Upkid.executor": "Run",
     "Python.main.executor": "Run",
     "Python.trs.executor": "Run",
-    "Python.x si zero.executor": "Run",
+    "Python.x si zero.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -78,7 +79,9 @@
       <workItem from="1778524171768" duration="69000" />
       <workItem from="1778652678832" duration="3099000" />
       <workItem from="1779211584788" duration="3160000" />
-      <workItem from="1779257043926" duration="4913000" />
+      <workItem from="1779257043926" duration="5196000" />
+      <workItem from="1779262738700" duration="169000" />
+      <workItem from="1779862241302" duration="30000" />
     </task>
     <servers />
   </component>
@@ -93,16 +96,28 @@
           <line>1</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/x si zero.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="k" language="Python" />
+        <watch expression="k" language="Python" />
+        <watch expression="k" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python$Piatra_Hartie_foarfeca.coverage" NAME="Piatra,Hartie,foarfeca Coverage Results" MODIFIED="1778656068287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$x_si_zero.coverage" NAME="x si zero Coverage Results" MODIFIED="1779261993725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$Piatra_Hartie_foarfeca.coverage" NAME="Piatra,Hartie,foarfeca Coverage Results" MODIFIED="1779262756289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$x_si_zero.coverage" NAME="x si zero Coverage Results" MODIFIED="1779262871491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$trs.coverage" NAME="trs Coverage Results" MODIFIED="1778002714434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Upkid.coverage" NAME="Upkid Coverage Results" MODIFIED="1779214144829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$main.coverage" NAME="main Coverage Results" MODIFIED="1776843154053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Lectia_5.coverage" NAME="Lectia 5 Coverage Results" MODIFIED="1779258676102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$Pizzerie.coverage" NAME="Pizzerie Coverage Results" MODIFIED="1778052361624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$Pizzerie.coverage" NAME="Pizzerie Coverage Results" MODIFIED="1779262838543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
