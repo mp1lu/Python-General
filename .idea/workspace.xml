@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="af6c52f3-c960-45cc-a084-341c5f0a4289" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/x si zero.py" beforeDir="false" afterPath="$PROJECT_DIR$/x si zero.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,10 +37,11 @@
     "Python.Lectia 5.executor": "Run",
     "Python.Piatra,Hartie,foarfeca.executor": "Run",
     "Python.Pizzerie.executor": "Run",
+    "Python.Spanzuratoarea.executor": "Run",
     "Python.Upkid.executor": "Run",
     "Python.main.executor": "Run",
     "Python.trs.executor": "Run",
-    "Python.x si zero.executor": "Debug",
+    "Python.x si zero.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -95,11 +95,6 @@
           <url>file://$PROJECT_DIR$/Pizzerie.py</url>
           <line>1</line>
           <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/x si zero.py</url>
-          <line>10</line>
-          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
