@@ -34,6 +34,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Exercitii.executor": "Run",
     "Python.Lectia 5.executor": "Run",
     "Python.Piatra,Hartie,foarfeca.executor": "Run",
     "Python.Pizzerie.executor": "Run",
